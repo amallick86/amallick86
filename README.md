@@ -68,13 +68,13 @@ REST API | GRPC | Microservices | WebSockets | OpenAPI | CI/CD | Agile
 
 ---
 
-### 📊 GitHub Stats
+<!-- ### 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=amallick86&show_icons=true&theme=radical" alt="stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=amallick86&theme=radical" alt="streak" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amallick86&layout=compact&theme=radical" alt="languages" />
-</p>
+</p> -->
 
 ---
 
