@@ -67,6 +67,13 @@ REST API | GRPC | Microservices | WebSockets | OpenAPI | CI/CD | Agile
 - Managed **GCP servers** and implemented **CronJobs**
 
 ---
+START_SECTION:waka
+END_SECTION:waka
+
+---
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=amallick86&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+---
 
 <!-- ### 📊 GitHub Stats
 
